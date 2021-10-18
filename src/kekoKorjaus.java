@@ -1,4 +1,4 @@
-public class keko {
+public class kekoKorjaus {
 
 
         public static void korjaaKeko(int[] kLuvut) {
